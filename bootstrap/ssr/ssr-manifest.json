@@ -1,0 +1,10 @@
+{
+  "resources/js/Layouts/MainLayout.vue": [],
+  "resources/js/Pages/About.vue": [],
+  "resources/js/Pages/Contact.vue": [],
+  "resources/js/Pages/Expenses/Create.vue": [],
+  "resources/js/Pages/Expenses/Edit.vue": [],
+  "resources/js/Pages/Expenses/Index.vue": [],
+  "resources/js/Pages/Home.vue": [],
+  "resources/js/ssr.js": []
+}
